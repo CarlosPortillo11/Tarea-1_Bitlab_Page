@@ -1,0 +1,20 @@
+.banner {
+  background: url(../assets/BecasSection/Hero/banner.png); }
+
+.bg-grey {
+  background-color: #F7F7F7; }
+
+.w-64 {
+  width: 20rem; }
+
+.h {
+  height: 620px; }
+
+.w-1 {
+  width: 450px; }
+
+.transition {
+  transition: 0.3s; }
+
+.mr {
+  margin-right: 17rem; }
