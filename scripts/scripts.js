@@ -14,12 +14,4 @@ function myFunction() {
       navbar.classList.remove("sticky");
     }
 };
-
-var img1 = src()
-
-$("#change-img").attr("src",)
-
-
-
-
 });
